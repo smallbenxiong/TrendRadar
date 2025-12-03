@@ -1,37 +1,3 @@
-英伟达
-NVIDIA
-黄仁勋
-
-iphone
-ipad
-mac
-ios
-apple
-Apple
-APPLE
-iPhone
-苹果
-!水果
-
-ai
-AI
-人工智能
-ChatGPT
-Gemini
-gemini
-Claude
-DeepSeek
-chatgpt
-openai
-sora
-google
-deepmind
-claude
-Anthropic
-qwen
-Qwen
-!gai
-
 脑机
 脑机接口
 Neuralink
@@ -42,12 +8,13 @@ BCI
 Brain-Computer Interface
 Brain
 
-FinTech
-Fintech
+fintech
+financial
 出海
 银行
 信贷
-!信用卡优惠
+信用卡
+消费金融
 !理财推荐
 
 金融风险
@@ -66,12 +33,59 @@ Basel
 RegTech
 OJK
 
-Advance Intelligence Group
 advance intelligence group
 advance group
-Atome
 atome
 Kredit Pintar
-kredit pintar
+领创
+领创集团
+
+bnpl
+buy now
+pay later
+paylater
+
+tiktokshop
+tiktok shop
+tiktok paylater
+tokopedia
+goto
+gopay
 
 信用生活
+
+柳林县
+大同
+山西
+吕梁
+晋创谷
+
+英伟达
+NVIDIA
+黄仁勋
+
+iphone
+ipad
+mac
+ios
+apple
+Apple
+APPLE
+iPhone
+苹果
+!水果
+
+ai
+人工智能
+chatgpt
+gemini
+Claude
+DeepSeek
+openai
+sora
+google
+deepmind
+claude
+Anthropic
+qwen
+!gai
